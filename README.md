@@ -6,7 +6,7 @@ Here's a splash page that took all of 10 minutes to create.
 
 # It's not just for maintenance...
 
-Changing the text to a status code '404'or '301' makes this splash page multi-useful for your projects.
+Changing the text to a status code '404' or '301' makes this splash page multi-useful for your projects.
 
 You'll never have to think about error pages ever again...
 
